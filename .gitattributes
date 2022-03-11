@@ -2,3 +2,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.gpkg filter=lfs diff=lfs merge=lfs -text
 *.geojson filter=lfs diff=lfs merge=lfs -text
+*.kea filter=lfs diff=lfs merge=lfs -text
