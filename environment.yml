@@ -1,6 +1,5 @@
 name: rsgislib-tutorials
 channels:
-  - au-eoed
   - conda-forge
 dependencies:
   - python=3.9
@@ -12,7 +11,7 @@ dependencies:
   - xerces-c
   - muparser
   - boost-cpp
-  - rsgislib=5.0.0
+  - rsgislib
   - rios
   - scikit-learn
   - scikit-image
